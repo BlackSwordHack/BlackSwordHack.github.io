@@ -102,7 +102,7 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #42484c;
+  color: black;
   font-family: "Open Sans", sans-serif;
   font-size: 13pt;
   font-weight: 400;
