@@ -1293,6 +1293,9 @@ ul {
         border-top: 0;
         padding-top: 0; }
 
+li {
+  margin-bottom: 5px;}
+
 dl {
   margin: 0 0 2em 0; }
   dl dt {
